@@ -1,0 +1,50 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-05-13 12:32:50 --> Severity: Notice --> Undefined variable: execute /services/webpages/n/o/novaplan.com.br/public/application/views/admin/view_service_order.php 53
+ERROR - 2021-05-13 12:32:50 --> Severity: Warning --> mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given /services/webpages/n/o/novaplan.com.br/public/application/views/admin/view_service_order.php 53
+ERROR - 2021-05-13 12:36:17 --> Severity: error --> Exception: syntax error, unexpected end of file /services/webpages/n/o/novaplan.com.br/public/application/views/admin/view_service_order.php 88
+ERROR - 2021-05-13 12:36:58 --> Severity: error --> Exception: syntax error, unexpected end of file /services/webpages/n/o/novaplan.com.br/public/application/views/admin/view_service_order.php 88
+ERROR - 2021-05-13 12:38:17 --> Severity: error --> Exception: syntax error, unexpected end of file /services/webpages/n/o/novaplan.com.br/public/application/views/admin/view_service_order.php 88
+ERROR - 2021-05-13 13:33:47 --> Severity: error --> Exception: syntax error, unexpected '$data' (T_VARIABLE) /services/webpages/n/o/novaplan.com.br/public/application/controllers/admin/Service.php 42
+ERROR - 2021-05-13 14:20:07 --> Severity: error --> Exception: Too few arguments to function Model_service::update_order(), 1 passed in /services/webpages/n/o/novaplan.com.br/public/application/controllers/admin/Service.php on line 40 and exactly 2 expected /services/webpages/n/o/novaplan.com.br/public/application/models/admin/Model_service.php 89
+ERROR - 2021-05-13 14:22:21 --> Severity: error --> Exception: Too few arguments to function Model_service::update_order(), 1 passed in /services/webpages/n/o/novaplan.com.br/public/application/controllers/admin/Service.php on line 40 and exactly 2 expected /services/webpages/n/o/novaplan.com.br/public/application/models/admin/Model_service.php 89
+ERROR - 2021-05-13 14:22:24 --> Severity: error --> Exception: Too few arguments to function Model_service::update_order(), 1 passed in /services/webpages/n/o/novaplan.com.br/public/application/controllers/admin/Service.php on line 40 and exactly 2 expected /services/webpages/n/o/novaplan.com.br/public/application/models/admin/Model_service.php 89
+ERROR - 2021-05-13 14:25:51 --> Severity: error --> Exception: syntax error, unexpected 'echo' (T_ECHO), expecting ';' /services/webpages/n/o/novaplan.com.br/public/application/controllers/admin/Service.php 38
+ERROR - 2021-05-13 14:29:04 --> Severity: Notice --> Undefined variable: data /services/webpages/n/o/novaplan.com.br/public/application/controllers/admin/Service.php 38
+ERROR - 2021-05-13 14:29:04 --> Severity: Notice --> Undefined variable: setting /services/webpages/n/o/novaplan.com.br/public/application/views/admin/view_header.php 10
+ERROR - 2021-05-13 14:29:04 --> Severity: Notice --> Undefined variable: setting /services/webpages/n/o/novaplan.com.br/public/application/views/admin/view_header.php 83
+ERROR - 2021-05-13 14:29:07 --> Severity: Notice --> Undefined variable: data /services/webpages/n/o/novaplan.com.br/public/application/controllers/admin/Service.php 38
+ERROR - 2021-05-13 14:29:07 --> Severity: Notice --> Undefined variable: setting /services/webpages/n/o/novaplan.com.br/public/application/views/admin/view_header.php 10
+ERROR - 2021-05-13 14:29:07 --> Severity: Notice --> Undefined variable: setting /services/webpages/n/o/novaplan.com.br/public/application/views/admin/view_header.php 83
+ERROR - 2021-05-13 16:28:29 --> Severity: error --> Exception: syntax error, unexpected 'return' (T_RETURN) /services/webpages/n/o/novaplan.com.br/public/application/controllers/admin/Service.php 39
+ERROR - 2021-05-13 18:21:25 --> Severity: Notice --> Undefined index: meta_keyword /services/webpages/n/o/novaplan.com.br/public/application/controllers/admin/Service.php 38
+ERROR - 2021-05-13 18:22:11 --> Severity: Notice --> Undefined index: meta_keyword /services/webpages/n/o/novaplan.com.br/public/application/controllers/admin/Service.php 38
+ERROR - 2021-05-13 18:23:01 --> Severity: Notice --> Undefined index: meta_keyword /services/webpages/n/o/novaplan.com.br/public/application/controllers/admin/Service.php 38
+ERROR - 2021-05-13 18:27:11 --> Severity: Notice --> Undefined index: meta_keyword /services/webpages/n/o/novaplan.com.br/public/application/controllers/admin/Service.php 38
+ERROR - 2021-05-13 18:44:16 --> Query error: Unknown column '$arr_item' in 'where clause' - Invalid query: UPDATE tbl_service SET meta_keyword = $ordem WHERE id = $arr_item
+ERROR - 2021-05-13 18:44:16 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /services/webpages/n/o/novaplan.com.br/public/application/models/admin/Model_service.php:92) /services/webpages/n/o/novaplan.com.br/public/system/core/Common.php 564
+ERROR - 2021-05-13 19:09:24 --> Query error: Unknown column '$arr_item' in 'where clause' - Invalid query: UPDATE tbl_service SET meta_keyword = $ordem WHERE id = $arr_item
+ERROR - 2021-05-13 19:09:24 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /services/webpages/n/o/novaplan.com.br/public/application/models/admin/Model_service.php:92) /services/webpages/n/o/novaplan.com.br/public/system/core/Common.php 564
+ERROR - 2021-05-13 19:16:21 --> Query error: Unknown column '$arr_item' in 'where clause' - Invalid query: UPDATE tbl_service SET meta_keyword = $ordem WHERE id = $arr_item
+ERROR - 2021-05-13 19:16:21 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /services/webpages/n/o/novaplan.com.br/public/application/models/admin/Model_service.php:92) /services/webpages/n/o/novaplan.com.br/public/system/core/Common.php 564
+ERROR - 2021-05-13 19:16:42 --> Query error: Unknown column '$arr_item' in 'where clause' - Invalid query: UPDATE tbl_service SET meta_keyword = $ordem WHERE id = $arr_item
+ERROR - 2021-05-13 19:16:42 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /services/webpages/n/o/novaplan.com.br/public/application/models/admin/Model_service.php:92) /services/webpages/n/o/novaplan.com.br/public/system/core/Common.php 564
+ERROR - 2021-05-13 19:28:59 --> Query error: Unknown column '$arr_item' in 'where clause' - Invalid query: UPDATE tbl_service SET meta_keyword = $ordem WHERE id = $arr_item
+ERROR - 2021-05-13 19:28:59 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /services/webpages/n/o/novaplan.com.br/public/application/models/admin/Model_service.php:92) /services/webpages/n/o/novaplan.com.br/public/system/core/Common.php 564
+ERROR - 2021-05-13 19:38:48 --> Severity: Notice --> Uninitialized string offset: 1 /services/webpages/n/o/novaplan.com.br/public/application/models/admin/Model_service.php 95
+ERROR - 2021-05-13 19:38:48 --> Severity: Notice --> Uninitialized string offset: 2 /services/webpages/n/o/novaplan.com.br/public/application/models/admin/Model_service.php 95
+ERROR - 2021-05-13 19:38:48 --> Severity: Notice --> Uninitialized string offset: 3 /services/webpages/n/o/novaplan.com.br/public/application/models/admin/Model_service.php 95
+ERROR - 2021-05-13 19:38:48 --> Severity: Notice --> Uninitialized string offset: 4 /services/webpages/n/o/novaplan.com.br/public/application/models/admin/Model_service.php 95
+ERROR - 2021-05-13 19:38:48 --> Severity: Notice --> Uninitialized string offset: 5 /services/webpages/n/o/novaplan.com.br/public/application/models/admin/Model_service.php 95
+ERROR - 2021-05-13 19:38:48 --> Severity: Notice --> Uninitialized string offset: 6 /services/webpages/n/o/novaplan.com.br/public/application/models/admin/Model_service.php 95
+ERROR - 2021-05-13 19:40:32 --> Severity: Notice --> Uninitialized string offset: 1 /services/webpages/n/o/novaplan.com.br/public/application/models/admin/Model_service.php 95
+ERROR - 2021-05-13 19:40:32 --> Severity: Notice --> Uninitialized string offset: 2 /services/webpages/n/o/novaplan.com.br/public/application/models/admin/Model_service.php 95
+ERROR - 2021-05-13 19:40:32 --> Severity: Notice --> Uninitialized string offset: 3 /services/webpages/n/o/novaplan.com.br/public/application/models/admin/Model_service.php 95
+ERROR - 2021-05-13 19:40:32 --> Severity: Notice --> Uninitialized string offset: 4 /services/webpages/n/o/novaplan.com.br/public/application/models/admin/Model_service.php 95
+ERROR - 2021-05-13 19:40:32 --> Severity: Notice --> Uninitialized string offset: 5 /services/webpages/n/o/novaplan.com.br/public/application/models/admin/Model_service.php 95
+ERROR - 2021-05-13 19:48:00 --> Query error: Unknown column '$arr_item' in 'where clause' - Invalid query: UPDATE tbl_service SET meta_keyword = $ordem WHERE id = $arr_item
+ERROR - 2021-05-13 19:48:00 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /services/webpages/n/o/novaplan.com.br/public/application/models/admin/Model_service.php:92) /services/webpages/n/o/novaplan.com.br/public/system/core/Common.php 564
+ERROR - 2021-05-13 19:52:38 --> Query error: Unknown column '$ordem' in 'field list' - Invalid query: UPDATE tbl_service SET meta_keyword = $ordem WHERE id = 1
+ERROR - 2021-05-13 19:52:38 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /services/webpages/n/o/novaplan.com.br/public/application/models/admin/Model_service.php:92) /services/webpages/n/o/novaplan.com.br/public/system/core/Common.php 564
+ERROR - 2021-05-13 19:53:35 --> Severity: error --> Exception: syntax error, unexpected '';' (T_ENCAPSED_AND_WHITESPACE) /services/webpages/n/o/novaplan.com.br/public/application/models/admin/Model_service.php 95
+ERROR - 2021-05-13 20:35:15 --> Severity: error --> Exception: syntax error, unexpected '.' /services/webpages/n/o/novaplan.com.br/public/application/views/admin/view_service_order.php 65

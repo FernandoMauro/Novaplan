@@ -1,0 +1,10 @@
+DirectoryIndex index.php
+# for PHP7-CGI
+AddHandler php-cgi .php
+Action php-cgi /cgi-bin/php-cgi
+
+# for php and securewebexchange
+<IfDefine SSL>
+    AddHandler php-cgi .php
+    Action php-cgi https://secure75.securewebsession.com/novaplan.com.br/cgi-bin/php-cgi
+</IfDefine>

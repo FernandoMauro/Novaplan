@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-09-17 10:15:34 --> Severity: Notice --> Trying to access array offset on value of type null /home/vol9_5/epizy.com/epiz_25254371/htdocs/np/application/views/view_portfolio_detail.php 6
+ERROR - 2020-09-17 10:15:34 --> Severity: Notice --> Trying to access array offset on value of type null /home/vol9_5/epizy.com/epiz_25254371/htdocs/np/application/views/view_portfolio_detail.php 19
+ERROR - 2020-09-17 10:15:34 --> Severity: Notice --> Trying to access array offset on value of type null /home/vol9_5/epizy.com/epiz_25254371/htdocs/np/application/views/view_portfolio_detail.php 20
+ERROR - 2020-09-17 10:15:34 --> Severity: Notice --> Trying to access array offset on value of type null /home/vol9_5/epizy.com/epiz_25254371/htdocs/np/application/views/view_portfolio_detail.php 37
+ERROR - 2020-09-17 10:15:34 --> Severity: Notice --> Trying to access array offset on value of type null /home/vol9_5/epizy.com/epiz_25254371/htdocs/np/application/views/view_portfolio_detail.php 45
+ERROR - 2020-09-17 10:15:34 --> Severity: Notice --> Trying to access array offset on value of type null /home/vol9_5/epizy.com/epiz_25254371/htdocs/np/application/views/view_portfolio_detail.php 46
+ERROR - 2020-09-17 10:15:34 --> Severity: Notice --> Trying to access array offset on value of type null /home/vol9_5/epizy.com/epiz_25254371/htdocs/np/application/views/view_portfolio_detail.php 47
+ERROR - 2020-09-17 10:15:34 --> Severity: Notice --> Trying to access array offset on value of type null /home/vol9_5/epizy.com/epiz_25254371/htdocs/np/application/views/view_portfolio_detail.php 48
+ERROR - 2020-09-17 10:15:34 --> Severity: Notice --> Trying to access array offset on value of type null /home/vol9_5/epizy.com/epiz_25254371/htdocs/np/application/views/view_portfolio_detail.php 49
+ERROR - 2020-09-17 10:15:34 --> Severity: Notice --> Trying to access array offset on value of type null /home/vol9_5/epizy.com/epiz_25254371/htdocs/np/application/views/view_portfolio_detail.php 64
+ERROR - 2020-09-17 10:15:55 --> Severity: Notice --> Trying to access array offset on value of type null /home/vol9_5/epizy.com/epiz_25254371/htdocs/np/application/views/view_portfolio_detail.php 6
+ERROR - 2020-09-17 10:15:55 --> Severity: Notice --> Trying to access array offset on value of type null /home/vol9_5/epizy.com/epiz_25254371/htdocs/np/application/views/view_portfolio_detail.php 19
+ERROR - 2020-09-17 10:15:55 --> Severity: Notice --> Trying to access array offset on value of type null /home/vol9_5/epizy.com/epiz_25254371/htdocs/np/application/views/view_portfolio_detail.php 20
+ERROR - 2020-09-17 10:15:55 --> Severity: Notice --> Trying to access array offset on value of type null /home/vol9_5/epizy.com/epiz_25254371/htdocs/np/application/views/view_portfolio_detail.php 37
+ERROR - 2020-09-17 10:15:55 --> Severity: Notice --> Trying to access array offset on value of type null /home/vol9_5/epizy.com/epiz_25254371/htdocs/np/application/views/view_portfolio_detail.php 45
+ERROR - 2020-09-17 10:15:55 --> Severity: Notice --> Trying to access array offset on value of type null /home/vol9_5/epizy.com/epiz_25254371/htdocs/np/application/views/view_portfolio_detail.php 46
+ERROR - 2020-09-17 10:15:55 --> Severity: Notice --> Trying to access array offset on value of type null /home/vol9_5/epizy.com/epiz_25254371/htdocs/np/application/views/view_portfolio_detail.php 47
+ERROR - 2020-09-17 10:15:55 --> Severity: Notice --> Trying to access array offset on value of type null /home/vol9_5/epizy.com/epiz_25254371/htdocs/np/application/views/view_portfolio_detail.php 48
+ERROR - 2020-09-17 10:15:55 --> Severity: Notice --> Trying to access array offset on value of type null /home/vol9_5/epizy.com/epiz_25254371/htdocs/np/application/views/view_portfolio_detail.php 49
+ERROR - 2020-09-17 10:15:55 --> Severity: Notice --> Trying to access array offset on value of type null /home/vol9_5/epizy.com/epiz_25254371/htdocs/np/application/views/view_portfolio_detail.php 64
+ERROR - 2020-09-17 10:16:05 --> Severity: Notice --> Trying to access array offset on value of type null /home/vol9_5/epizy.com/epiz_25254371/htdocs/np/application/views/view_portfolio_detail.php 6
+ERROR - 2020-09-17 10:16:05 --> Severity: Notice --> Trying to access array offset on value of type null /home/vol9_5/epizy.com/epiz_25254371/htdocs/np/application/views/view_portfolio_detail.php 19
+ERROR - 2020-09-17 10:16:05 --> Severity: Notice --> Trying to access array offset on value of type null /home/vol9_5/epizy.com/epiz_25254371/htdocs/np/application/views/view_portfolio_detail.php 20
+ERROR - 2020-09-17 10:16:05 --> Severity: Notice --> Trying to access array offset on value of type null /home/vol9_5/epizy.com/epiz_25254371/htdocs/np/application/views/view_portfolio_detail.php 37
+ERROR - 2020-09-17 10:16:05 --> Severity: Notice --> Trying to access array offset on value of type null /home/vol9_5/epizy.com/epiz_25254371/htdocs/np/application/views/view_portfolio_detail.php 45
+ERROR - 2020-09-17 10:16:05 --> Severity: Notice --> Trying to access array offset on value of type null /home/vol9_5/epizy.com/epiz_25254371/htdocs/np/application/views/view_portfolio_detail.php 46
+ERROR - 2020-09-17 10:16:05 --> Severity: Notice --> Trying to access array offset on value of type null /home/vol9_5/epizy.com/epiz_25254371/htdocs/np/application/views/view_portfolio_detail.php 47
+ERROR - 2020-09-17 10:16:05 --> Severity: Notice --> Trying to access array offset on value of type null /home/vol9_5/epizy.com/epiz_25254371/htdocs/np/application/views/view_portfolio_detail.php 48
+ERROR - 2020-09-17 10:16:05 --> Severity: Notice --> Trying to access array offset on value of type null /home/vol9_5/epizy.com/epiz_25254371/htdocs/np/application/views/view_portfolio_detail.php 49
+ERROR - 2020-09-17 10:16:05 --> Severity: Notice --> Trying to access array offset on value of type null /home/vol9_5/epizy.com/epiz_25254371/htdocs/np/application/views/view_portfolio_detail.php 64
